@@ -1,0 +1,6 @@
+# ninja log v5
+1	549	6718514798255853	CMakeFiles/Ordenamiento_Dimensional.dir/main.cpp.obj	2e9c2317fced1ab4
+552	717	6718514799897181	Ordenamiento_Dimensional.exe	2cbfce1b7bc0c17
+3	236	6718517066774114	build.ninja	6d60e1abcb24ee11
+0	461	6718517071804086	CMakeFiles/Ordenamiento_Dimensional.dir/Ordenamiento_Dimensional.cpp.obj	43f74a848d76565e
+461	620	6718517073373382	Ordenamiento_Dimensional.exe	22bd12b6a35de276
